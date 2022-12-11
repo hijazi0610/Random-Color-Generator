@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #FBDBC1;
+}
+
+.container {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+}
+
+#rainbow {
+    height: 700px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: -240px;
+}
+
+#h2 {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: 35px;;
+}
+
+#click-color {
+    display: block;
+    margin: 0 auto;
+    height: 70px;
+    width: 330px;
+    border: none;
+    margin-bottom: 20px;
+    font-size: 24px;
+    background: #fd4d3f;
+}
+
+#scrollable-color {
+    display: block;
+    margin: 0 auto;
+    height: 70px;
+    width: 330px;
+    border: none;
+    font-size: 24px;
+    background: #fd4d3f;
+}
